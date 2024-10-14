@@ -23,7 +23,6 @@ This project implements a real-time Financial News Sentiment Analysis tool lever
 ```bash
 git clone https://github.com/aanyabhandari3/cerebras_POC.git
 cd cerebras_POC
-pip install -r requirements.txt
 ```
 
 ## Cerebras Fast Inference
