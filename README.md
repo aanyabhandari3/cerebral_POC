@@ -20,10 +20,11 @@ This project implements a real-time Financial News Sentiment Analysis tool lever
 - Matplotlib for visualization
   
 ## Installation
-bash
+```bash
 git clone https://github.com/aanyabhandari3/cerebras_POC.git
 cd cerebras_POC
 pip install -r requirements.txt
+```
 
 ## Cerebras Fast Inference
 This project leverages Cerebras' fast inference capabilities to analyze large volumes of financial data in real-time. The ultra-fast infrastructure provided by Cerebras enables near-instantaneous sentiment analysis, crucial for responding to rapidly changing market conditions.
